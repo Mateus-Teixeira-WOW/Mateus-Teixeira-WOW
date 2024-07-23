@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">An ambitious high school student from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>">
+<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateus-teixeira-wow&label=Profile%20views&color=0e75b6&style=flat" alt="mateus-teixeira-wow" /> </p>
 

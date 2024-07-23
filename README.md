@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://www.canva.com/design/DAGLyqnF7wQ/5N0yq_1QwCyMGHGYaJ-H7A/view?utm_content=DAGLyqnF7wQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.canva.com/design/DAGLyqnF7wQ/5N0yq_1QwCyMGHGYaJ-H7A/view?utm_content=DAGLyqnF7wQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">An ambitious high school student from Brazil</h3>
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif")
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateus-teixeira-wow&label=Profile%20views&color=0e75b6&style=flat" alt="mateus-teixeira-wow" /> </p>
 

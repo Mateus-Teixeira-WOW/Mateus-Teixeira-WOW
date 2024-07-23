@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">An ambitious high school student from Brazil</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateus-teixeira-wow&label=Profile%20views&color=0e75b6&style=flat" alt="mateus-teixeira-wow" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateus-teixeira-wow" alt="mateus-teixeira-wow" /></a> </p>
 
